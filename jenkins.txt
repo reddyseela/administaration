@@ -1,0 +1,5 @@
+http://github.com/DEVOPS-WITH-WEB-DEV/jenkins-shared-library1.git
+
+
+
+http://github.com/DEVOPS-WITH-WEB-DEV/spring-cloud-kubernetes.git
